@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(51, 149, 182);
+    background-color: #3395b6;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -11,4 +11,16 @@ a {
 img {
     height: 200px;
     width: auto;
+}
+
+h1  {
+    background-color: rgba(41, 122, 149, 0.714);
+    margin: 0 auto;
+    padding: 25px 50px;
+    width: fit-content;
+}
+
+#recipe-list {
+    margin: 0 auto;
+    width: fit-content;
 }
